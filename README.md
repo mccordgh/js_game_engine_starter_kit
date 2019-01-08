@@ -9,5 +9,5 @@
 4. `$ cd js_game_engine_starter_kit`
 5. `$ npm install`
 6. `$ npm run start`
-7. Navigate to `http://localhost:8080/` (this is usually the default, but your webpack server may have set the port differently).
+7. Navigate to `http://localhost:8080/` (this is usually the default. Your webpack server may have changed the port number).
 8. There should be a black screen with a big white box, and "`Hello world`" in the dev tools Console.
